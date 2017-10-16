@@ -1,4 +1,4 @@
-# Microsoft Azure resources for Public Sector Research and Education
+# Azure Resources for Public Sector Research and Education
 A list of helpful resources
 
 ### Things You Might Want to Try to Do Tomorrow:
