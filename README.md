@@ -22,6 +22,8 @@ A list of helpful resources
 ### Azure for Researchers: 
 -	Microsoft Azure for Researchers: https://www.microsoft.com/en-us/research/academic-program/microsoft-azure-for-research/ 
 -	HPC and Simulation offerings: https://simulation.azure.com/ 
+- Free online access to Jupyter notebooks running in the cloud on Microsoft Azure: https://notebooks.azure.com/
+- Academic Knowledge API: https://azure.microsoft.com/en-us/services/cognitive-services/academic-knowledge/
 
 ### If you already know AWS: 
 -	Service Names Mapped:  https://azure.microsoft.com/blog/cloud-service-map-for-aws-and-azure-available-now/ 
