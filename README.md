@@ -24,7 +24,7 @@ A list of helpful resources
 -	HPC and Simulation offerings: https://simulation.azure.com/ 
 
 ### If you already know AWS: 
--	Service Names Mapped:  https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services 
+-	Service Names Mapped:  https://azure.microsoft.com/blog/cloud-service-map-for-aws-and-azure-available-now/ 
 -	Azure training for AWS Professionals https://www.pluralsight.com/courses/azure-administration-aws-administrators?twoid=FE0E0FCF2684CFAC 
 
 ### Learn Azure through and through:
