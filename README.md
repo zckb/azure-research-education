@@ -1,7 +1,7 @@
 # Microsoft Azure resources for Public Sector Research and Education
 A list of helpful resources
 
-## Things You Might Want to Try to Do Tomorrow:
+### Things You Might Want to Try to Do Tomorrow:
 -	Cross-Platform Apps for iOS, Android, Windows and more: https://www.xamarin.com/ 
 -	Cross-Platform Bots for Slack, Facebook Messenger, Skype and more: https://dev.botframework.com/ 
 -	Manage and publish your APIs at scale in your institution: https://azure.microsoft.com/en-us/services/api-management/ 
