@@ -8,7 +8,7 @@ A list of helpful resources
 -	Detect offensive, unwanted content automatically using AI: https://azure.microsoft.com/en-us/services/cognitive-services/content-moderator/ 
 
 ### Fun things to demo/try in just a few minutes: 
--	Create a bot out of an FAQ in minutes: http://qnamaker.ai 
+-	Create a bot out of a FAQ in minutes: http://qnamaker.ai 
 -	Make a video completely searchable with insights: https://vi.microsoft.com/ 
 -	Create a no-code app for iOS, Android that talks to apps like Salesforce, Hipchat, Twilio, Sendgrid and more: https://powerapps.microsoft.com/en-us/
 
