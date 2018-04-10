@@ -6,6 +6,7 @@ A list of helpful resources
 -	Cross-Platform Bots for Slack, Facebook Messenger, Skype and more: https://dev.botframework.com/ 
 -	Manage and publish your APIs at scale in your institution: https://azure.microsoft.com/en-us/services/api-management/ 
 -	Detect offensive, unwanted content automatically using AI: https://azure.microsoft.com/en-us/services/cognitive-services/content-moderator/ 
+- Hands on Labs for Web Development, AI, Machine Learning, Deep Learning and more: https://github.com/Microsoft/computerscience/tree/master/Labs
 
 ### Fun things to demo/try in just a few minutes: 
 -	Create a bot out of a FAQ in minutes: http://qnamaker.ai 
